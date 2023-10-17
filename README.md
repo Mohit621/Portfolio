@@ -1,8 +1,9 @@
 # Portfolio
+
 ## Overview
 
-This repository contains the source code for Mohit Bhandari's personal portfolio website.
-The website is designed to showcase Mohit's education, skills, projects, and provide a means for visitors to contact him.
+This repository contains the source code for my personal portfolio website.
+The website is designed to showcase my education, skills, projects, and provide a means for visitors to contact him.
 
 ## Table of Contents
 
@@ -14,14 +15,13 @@ The website is designed to showcase Mohit's education, skills, projects, and pro
 - [Folder Structure](#folder-structure)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Features
 
 - Responsive design for various screen sizes.
 - Tab-based navigation for the "About" section.
-- Project section showcasing Mohit's projects with descriptions.
+- Project section showcasing my projects with descriptions.
 - Contact section with a form for submitting messages.
 - Google Sheets integration for form submissions.
 - Smooth animations and transitions for an enhanced user experience.
@@ -38,13 +38,13 @@ The website is designed to showcase Mohit's education, skills, projects, and pro
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/mohit-bhandari-portfolio.git
+   git clone https://github.com/Mohit621/Portfolio.github.io
    ```
 
 2. Open the project folder:
 
    ```bash
-   cd mohit-bhandari-portfolio
+   cd Portfolio
    ```
 
 3. Open the `index.html` file in your preferred web browser.
@@ -73,14 +73,10 @@ The website is designed to showcase Mohit's education, skills, projects, and pro
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
 - Thanks to [FontAwesome](https://fontawesome.com/) for the icons used in the portfolio.
-- Special thanks to Mohit Bhandari for sharing his portfolio with the community.
 
 ---
 
